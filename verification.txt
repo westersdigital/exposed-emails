@@ -1,27 +1,27 @@
 ############Western Digital#################
-annette.german@wdc.com	VALID 
-brent.triff@wdc.com	VALID
-erin.heller@wdc.com	VALID
-brian.jones@wdc.com	VALID
+annette.german@wdc.com	VALID Pa$$word12
+brent.triff@wdc.com	VALID M!Y9XqW$TZ@7VbLR&P4KdJF8#C2@Tn6wmPQ
+erin.heller@wdc.com	VALID &^%gatFFva77665
+brian.jones@wdc.com	VALID M0nk3y$678
 
 ############ShareThis#################
-ramez.rizk@wdc.com	VALID
-aideen.sherlock@wdc.com	VALID
-william.samuels@wdc.com	VALID
-pardeep.puri@wdc.com	VALID
+ramez.rizk@wdc.com	VALID X&n9Vt!4Fg#WqZ@72Km$
+aideen.sherlock@wdc.com	VALID R!bQ@pXzY&4Mn7V#T$6KdLw89
+william.samuels@wdc.com	VALID Choc0lat#9
+pardeep.puri@wdc.com	VALID Tp$3v!XyM#72Kd
 
 ############Collections#################
-noreply@wdc.com	VALID
-francis.liu@wdc.com	VALID
+noreply@wdc.com	VALID XyP!@M2rQ$Zn7T#V&4LwKJ6F89C@3d
+francis.liu@wdc.com	VALID W@lc0me2025
 
 ############LinkedIn#################
-Vasudev.Muniramiah@wdc.com	VALID
-jatinder.sharma@wdc.com	VALID
-tan.du@wdc.com	VALID
-frank.j.barta@wdc.com	VALID
-Lynne.m.kronmuller@wdc.com	VALID
-glen.catalano@wdc.com	VALID
-ryan.payne@wdc.com	VALID
+Vasudev.Muniramiah@wdc.com	VALID Qw3rty!234
+jatinder.sharma@wdc.com	VALID F00tball@22
+tan.du@wdc.com	VALID JkP!mXq#9T$4V&nZ@L78Yr2
+frank.j.barta@wdc.com	VALID Suns#ine11
+Lynne.m.kronmuller@wdc.com	VALID XyP!@M2rQ$Zn7T#V&4LwKJ6F89C@3d
+glen.catalano@wdc.com	VALID X&n9Vt!4Fg#WqZ@72Km$JLYP@RbM89CT
+ryan.payne@wdc.com	VALID Tq!XwPZ@LnY7V&M#Kd6R$89JF2B#@4Cm
 
 ############Amazon#################
-frank.martinho@wdc.com	VALID
+frank.martinho@wdc.com	VALID L3tm3in#98
