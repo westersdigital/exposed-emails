@@ -1,0 +1,27 @@
+############Western Digital#################
+annette.german@wdc.com	VALID 
+brent.triff@wdc.com	VALID
+erin.heller@wdc.com	VALID
+brian.jones@wdc.com	VALID
+
+############ShareThis#################
+ramez.rizk@wdc.com	VALID
+aideen.sherlock@wdc.com	VALID
+william.samuels@wdc.com	VALID
+pardeep.puri@wdc.com	VALID
+
+############Collections#################
+noreply@wdc.com	VALID
+francis.liu@wdc.com	VALID
+
+############LinkedIn#################
+Vasudev.Muniramiah@wdc.com	VALID
+jatinder.sharma@wdc.com	VALID
+tan.du@wdc.com	VALID
+frank.j.barta@wdc.com	VALID
+Lynne.m.kronmuller@wdc.com	VALID
+glen.catalano@wdc.com	VALID
+ryan.payne@wdc.com	VALID
+
+############Amazon#################
+frank.martinho@wdc.com	VALID
