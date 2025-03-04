@@ -1,0 +1,3 @@
+$gpo = Get-GPO -All | Out-GridView -OutputMode Single
+Get-AppLockerPolicy -Ldap "LDAP://$(($gpo).path)" -Domain | 
+Get-AppLockerPolicyInfo | ft -AutoSize
